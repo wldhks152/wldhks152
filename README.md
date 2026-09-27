@@ -14,7 +14,7 @@ I enjoy building reliable backend systems and exploring practical AI application
 
 | 🌱 Currently Learning | 🎯 Current Focus |
 | --- | --- |
-| RAG, React, and Model Context Protocol (MCP) | Backend development, AI agents, quantitative research, and low-latency trading systems |
+| RAG, React, Model Context Protocol (MCP), C++, and Spring Boot | Backend development, AI agents, quantitative research, and low-latency trading systems |
 
 ## Languages
 

@@ -2,7 +2,7 @@
 
 # Hi, I'm JIWAN CHOI 👋
 
-### University of Seoul Undergraduate
+### Computer Science, University of Seoul
 
 I enjoy working on projects related to finance.
 

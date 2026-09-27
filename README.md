@@ -2,9 +2,9 @@
 
 # Hi, I'm JIWAN CHOI 👋
 
-### Aspiring Backend & AI Developer
+### University of Seoul Undergraduate
 
-I enjoy building reliable backend systems and exploring practical AI applications.
+I enjoy working on projects related to finance.
 
 </div>
 

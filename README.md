@@ -32,12 +32,12 @@ I enjoy building reliable backend systems and exploring practical AI application
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-## What I'm Working Toward
+## Project Roadmap
 
-- Building dependable backend services
-- Developing applications with RAG and large language models
-- Learning how frontend and backend systems work together
-- Creating and sharing complete projects on GitHub
+- Building a RAG-powered application with a React frontend
+- Developing an application using Model Context Protocol (MCP)
+- Creating a quantitative research and backtesting project
+- Building an ultra-low-latency trading system in C++
 
 ---
 
